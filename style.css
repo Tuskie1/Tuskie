@@ -84,12 +84,12 @@ p{
     height: 32px;
     width: 60px;
     margin-right: 17;
-    
-    border: solid black;
+    align-self:center;
+    border: none;
     
 
 }
 .pee{
-    margin-right: 35px;
+    height:18px;
 }
 
